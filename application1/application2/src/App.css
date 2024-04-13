@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+* {
+  box-sizing:border-box;
+}
+
+body {
+  margin: 0;
+  background-color: yellow;
+}
+
+
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #269faf;
+  color: white;
+}
+
+.nav {
+  background-color: blue;
+  color: white;
+  display:flex;
+  justify-content: space-between;
+}
+
+
+.footer {
+  padding: 5px;
+  text-align:centre;
+  background: white;
+}
